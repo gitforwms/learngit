@@ -1,1 +1,4 @@
 git  is very good!
+git  is good
+git  is bad
+git  is very bad
