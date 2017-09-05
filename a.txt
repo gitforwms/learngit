@@ -1,0 +1,7 @@
+git  is very good!
+git  is good
+git  is bad
+<<<<<<< HEAD
+=======
+git  is very bad
+>>>>>>> wms
